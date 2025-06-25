@@ -1,6 +1,6 @@
 {
-    "name": "hama",
-    "short_name": "hama",
+    "name": "ruangan_hama",
+    "short_name": "ruangan_hama",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

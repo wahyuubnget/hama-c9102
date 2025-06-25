@@ -1,4 +1,4 @@
-package com.example.hama
+package com.example.ruangan_hama
 
 import io.flutter.embedding.android.FlutterActivity
 
